@@ -1,0 +1,24 @@
+[
+  {
+    "departamento": "RESTAURANTE - TEMATICOS",
+    "dali": "00022591",
+    "sap": "10501412",
+    "referencia": "AZUCARERO MELAMINA SOBRES 9X6CM BLANCO.SC66W.GET",
+    "fabricante": "CAMBRO",
+    "codigo_fabrica": "SC66W",
+    "proveedor_casa_delfin": "0400357",
+    "proveedor_pilsa": "",
+    "cantidad": ""
+  },
+  {
+    "departamento": "RESTAURANTE - TEMATICOS",
+    "dali": "00019642",
+    "sap": "10501554",
+    "referencia": "AZUCARERO MELAMINA SOBRES 9X6CM NEGRO.SC66BK.GET",
+    "fabricante": "CAMBRO",
+    "codigo_fabrica": "SC66BK.GET",
+    "proveedor_casa_delfin": "1006130",
+    "proveedor_pilsa": "",
+    "cantidad": ""
+  }
+]
