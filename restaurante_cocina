@@ -1,0 +1,46 @@
+[
+  {
+    "departamento": "RESTAURANTE - COCINA",
+    "dali": "00019168",
+    "sap": "10502070",
+    "referencia": "CARRO PORTAPLATOS CPA100 PUJADAS P80790",
+    "fabricante": "PUJADAS",
+    "codigo_fabrica": "P80790",
+    "proveedor_casa_delfin": "0180000",
+    "proveedor_pilsa": "",
+    "cantidad": ""
+  },
+  {
+    "departamento": "RESTAURANTE - COCINA",
+    "dali": "04001408",
+    "sap": "",
+    "referencia": "CESTA UNIVERSAL ABIERTA P5002",
+    "fabricante": "PUJADAS",
+    "codigo_fabrica": "P5002",
+    "proveedor_casa_delfin": "4001408",
+    "proveedor_pilsa": "",
+    "cantidad": ""
+  },
+  {
+    "departamento": "RESTAURANTE - COCINA",
+    "dali": "00028606",
+    "sap": "10502221",
+    "referencia": "MICROONDAS WHITE 20LT LACOR 69322 ( PERSONAL )",
+    "fabricante": "LACOR",
+    "codigo_fabrica": "69322",
+    "proveedor_casa_delfin": "1006065",
+    "proveedor_pilsa": "",
+    "cantidad": ""
+  },
+  {
+    "departamento": "RESTAURANTE - COCINA",
+    "dali": "00011114",
+    "sap": "10502067",
+    "referencia": "PORTACUBIERTOS 4 COMP.36,6x29,7CM 1037.ARAVEN",
+    "fabricante": "ARAVEN",
+    "codigo_fabrica": "1037",
+    "proveedor_casa_delfin": "1007079",
+    "proveedor_pilsa": "",
+    "cantidad": ""
+  }
+]
