@@ -11,12 +11,8 @@
     "proveedor_casa_delfin": "400165",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "pisos.json"
-=======
     "archivoOrigen": "pisos.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 331,
@@ -30,12 +26,8 @@
     "proveedor_casa_delfin": "0516004",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "pisos.json"
-=======
     "archivoOrigen": "pisos.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 367,
@@ -49,12 +41,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "pisos.json"
-=======
     "archivoOrigen": "pisos.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 371,
@@ -68,12 +56,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "pisos.json"
-=======
     "archivoOrigen": "pisos.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 375,
@@ -87,12 +71,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "pisos.json"
-=======
     "archivoOrigen": "pisos.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 608,
@@ -106,11 +86,7 @@
     "proveedor_casa_delfin": "0928123",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "pisos.json"
-=======
     "archivoOrigen": "pisos.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   }
 ]

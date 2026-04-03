@@ -11,12 +11,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 3,
@@ -30,12 +26,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 4,
@@ -49,12 +41,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 5,
@@ -68,12 +56,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 6,
@@ -87,12 +71,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P22833&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 7,
@@ -106,12 +86,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P22839&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 8,
@@ -125,12 +101,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P23800A&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 9,
@@ -144,12 +116,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P23800N&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 10,
@@ -163,12 +131,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P23800G&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 11,
@@ -182,12 +146,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P23800N&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 12,
@@ -201,12 +161,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P22223&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 13,
@@ -220,12 +176,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P24718&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 14,
@@ -239,12 +191,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P24720&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 15,
@@ -258,12 +206,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P24410&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 18,
@@ -277,12 +221,8 @@
     "proveedor_casa_delfin": "GENERIC",
     "proveedor_pilsa": "COMODIN",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P899500&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 20,
@@ -296,12 +236,8 @@
     "proveedor_casa_delfin": "0664123",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 21,
@@ -315,12 +251,8 @@
     "proveedor_casa_delfin": "0664202",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 22,
@@ -334,12 +266,8 @@
     "proveedor_casa_delfin": "0518006",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 26,
@@ -353,12 +281,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P964001&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 27,
@@ -372,12 +296,8 @@
     "proveedor_casa_delfin": "0563624",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 28,
@@ -391,12 +311,8 @@
     "proveedor_casa_delfin": "0317467",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=15316"
->>>>>>> dc9f1f9
   },
   {
     "id": 29,
@@ -410,12 +326,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "291660",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=25920"
->>>>>>> dc9f1f9
   },
   {
     "id": 30,
@@ -429,12 +341,8 @@
     "proveedor_casa_delfin": "1901644",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 31,
@@ -448,12 +356,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 32,
@@ -467,12 +371,8 @@
     "proveedor_casa_delfin": "2004180",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 33,
@@ -486,12 +386,8 @@
     "proveedor_casa_delfin": "4002978",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 34,
@@ -505,12 +401,8 @@
     "proveedor_casa_delfin": "4006102",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 35,
@@ -524,12 +416,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 36,
@@ -543,12 +431,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=46905&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 37,
@@ -562,12 +446,8 @@
     "proveedor_casa_delfin": "4004138",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=71928"
->>>>>>> dc9f1f9
   },
   {
     "id": 39,
@@ -581,12 +461,8 @@
     "proveedor_casa_delfin": "1900991",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 40,
@@ -600,12 +476,8 @@
     "proveedor_casa_delfin": "GENERIC",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 41,
@@ -619,12 +491,8 @@
     "proveedor_casa_delfin": "4004328",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=71932"
->>>>>>> dc9f1f9
   },
   {
     "id": 42,
@@ -638,12 +506,8 @@
     "proveedor_casa_delfin": "1902112",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=71924"
->>>>>>> dc9f1f9
   },
   {
     "id": 43,
@@ -657,12 +521,8 @@
     "proveedor_casa_delfin": "1700132",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=61361"
->>>>>>> dc9f1f9
   },
   {
     "id": 46,
@@ -676,12 +536,8 @@
     "proveedor_casa_delfin": "596011",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 47,
@@ -695,12 +551,8 @@
     "proveedor_casa_delfin": "0808004",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 48,
@@ -714,12 +566,8 @@
     "proveedor_casa_delfin": "1010116",
     "proveedor_pilsa": "303886",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 49,
@@ -733,12 +581,8 @@
     "proveedor_casa_delfin": "0808002",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 50,
@@ -752,12 +596,8 @@
     "proveedor_casa_delfin": "4003711",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 51,
@@ -771,12 +611,8 @@
     "proveedor_casa_delfin": "2003799",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 52,
@@ -790,12 +626,8 @@
     "proveedor_casa_delfin": "1009014",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=60464"
->>>>>>> dc9f1f9
   },
   {
     "id": 61,
@@ -809,12 +641,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 62,
@@ -828,12 +656,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 63,
@@ -847,12 +671,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 64,
@@ -866,12 +686,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 65,
@@ -885,12 +701,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 66,
@@ -904,12 +716,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 67,
@@ -923,12 +731,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 68,
@@ -942,12 +746,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 70,
@@ -961,12 +761,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 72,
@@ -980,12 +776,8 @@
     "proveedor_casa_delfin": "1901060",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 73,
@@ -999,12 +791,8 @@
     "proveedor_casa_delfin": "1700144",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 74,
@@ -1018,12 +806,8 @@
     "proveedor_casa_delfin": "1700146",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 75,
@@ -1037,12 +821,8 @@
     "proveedor_casa_delfin": "1005999",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 76,
@@ -1056,12 +836,8 @@
     "proveedor_casa_delfin": "1500621",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 78,
@@ -1075,12 +851,8 @@
     "proveedor_casa_delfin": "1500799",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 79,
@@ -1094,12 +866,8 @@
     "proveedor_casa_delfin": "1800364",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 84,
@@ -1113,12 +881,8 @@
     "proveedor_casa_delfin": "4005117",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P609011&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 94,
@@ -1132,12 +896,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 95,
@@ -1151,12 +911,8 @@
     "proveedor_casa_delfin": "1800370",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 97,
@@ -1170,12 +926,8 @@
     "proveedor_casa_delfin": "GENERIC",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 100,
@@ -1189,12 +941,8 @@
     "proveedor_casa_delfin": "4002218",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 101,
@@ -1208,12 +956,8 @@
     "proveedor_casa_delfin": "1700142",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 104,
@@ -1227,12 +971,8 @@
     "proveedor_casa_delfin": "1600588",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 107,
@@ -1246,12 +986,8 @@
     "proveedor_casa_delfin": "2004315",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P22313&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 108,
@@ -1265,12 +1001,8 @@
     "proveedor_casa_delfin": "4004105",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P22314&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 109,
@@ -1284,12 +1016,8 @@
     "proveedor_casa_delfin": "22702225",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 110,
@@ -1303,12 +1031,8 @@
     "proveedor_casa_delfin": "22702224",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 111,
@@ -1322,12 +1046,8 @@
     "proveedor_casa_delfin": "0031036",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 112,
@@ -1341,12 +1061,8 @@
     "proveedor_casa_delfin": "0042002",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 113,
@@ -1360,12 +1076,8 @@
     "proveedor_casa_delfin": "1009018",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P959030&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 114,
@@ -1379,12 +1091,8 @@
     "proveedor_casa_delfin": "1009019",
     "proveedor_pilsa": "135931",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P959040&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 115,
@@ -1398,12 +1106,8 @@
     "proveedor_casa_delfin": "0524165",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=61650"
->>>>>>> dc9f1f9
   },
   {
     "id": 116,
@@ -1417,12 +1121,8 @@
     "proveedor_casa_delfin": "1500818",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 120,
@@ -1436,12 +1136,8 @@
     "proveedor_casa_delfin": "1003839",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 121,
@@ -1455,12 +1151,8 @@
     "proveedor_casa_delfin": "4002013",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 122,
@@ -1474,12 +1166,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 123,
@@ -1493,12 +1181,8 @@
     "proveedor_casa_delfin": "0300978",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 126,
@@ -1512,12 +1196,8 @@
     "proveedor_casa_delfin": "1600350",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=61940"
->>>>>>> dc9f1f9
   },
   {
     "id": 127,
@@ -1531,12 +1211,8 @@
     "proveedor_casa_delfin": "1600351",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=61970"
->>>>>>> dc9f1f9
   },
   {
     "id": 136,
@@ -1550,12 +1226,8 @@
     "proveedor_casa_delfin": "0201955",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 137,
@@ -1569,12 +1241,8 @@
     "proveedor_casa_delfin": "0201954",
     "proveedor_pilsa": "171931",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 138,
@@ -1588,12 +1256,8 @@
     "proveedor_casa_delfin": "0201953",
     "proveedor_pilsa": "237098",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 140,
@@ -1607,12 +1271,8 @@
     "proveedor_casa_delfin": "9023482",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 141,
@@ -1626,12 +1286,8 @@
     "proveedor_casa_delfin": "0665696",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 142,
@@ -1645,12 +1301,8 @@
     "proveedor_casa_delfin": "900700",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 143,
@@ -1664,12 +1316,8 @@
     "proveedor_casa_delfin": "0900068",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 144,
@@ -1683,12 +1331,8 @@
     "proveedor_casa_delfin": "1600965",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 145,
@@ -1702,12 +1346,8 @@
     "proveedor_casa_delfin": "1600968",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 146,
@@ -1721,12 +1361,8 @@
     "proveedor_casa_delfin": "1600961",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 147,
@@ -1740,12 +1376,8 @@
     "proveedor_casa_delfin": "1600969",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 148,
@@ -1759,12 +1391,8 @@
     "proveedor_casa_delfin": "1600960",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 149,
@@ -1778,12 +1406,8 @@
     "proveedor_casa_delfin": "2000577",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 150,
@@ -1797,12 +1421,8 @@
     "proveedor_casa_delfin": "2006565",
     "proveedor_pilsa": "299448",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 151,
@@ -1816,12 +1436,8 @@
     "proveedor_casa_delfin": "2003867",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 152,
@@ -1835,12 +1451,8 @@
     "proveedor_casa_delfin": "0902642",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 161,
@@ -1854,12 +1466,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=49430&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 162,
@@ -1873,12 +1481,8 @@
     "proveedor_casa_delfin": "4004079",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P217045&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 163,
@@ -1892,12 +1496,8 @@
     "proveedor_casa_delfin": "4003161",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P217050&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 164,
@@ -1911,12 +1511,8 @@
     "proveedor_casa_delfin": "4003251",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P216035&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 165,
@@ -1930,12 +1526,8 @@
     "proveedor_casa_delfin": "4003025",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P216040&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 166,
@@ -1949,12 +1541,8 @@
     "proveedor_casa_delfin": "1500299",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=72850"
->>>>>>> dc9f1f9
   },
   {
     "id": 167,
@@ -1968,12 +1556,8 @@
     "proveedor_casa_delfin": "4004084",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P301112&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 168,
@@ -1987,12 +1571,8 @@
     "proveedor_casa_delfin": "4003012",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P301114&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 169,
@@ -2006,12 +1586,8 @@
     "proveedor_casa_delfin": "4004083",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P301116&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 170,
@@ -2025,12 +1601,8 @@
     "proveedor_casa_delfin": "4004072",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P392065&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 171,
@@ -2044,12 +1616,8 @@
     "proveedor_casa_delfin": "1600352",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=60420"
->>>>>>> dc9f1f9
   },
   {
     "id": 172,
@@ -2063,12 +1631,8 @@
     "proveedor_casa_delfin": "0908657",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=60435"
->>>>>>> dc9f1f9
   },
   {
     "id": 173,
@@ -2082,12 +1646,8 @@
     "proveedor_casa_delfin": "9028430",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 174,
@@ -2101,12 +1661,8 @@
     "proveedor_casa_delfin": "0504202",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 175,
@@ -2120,12 +1676,8 @@
     "proveedor_casa_delfin": "0664176",
     "proveedor_pilsa": "114353",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 176,
@@ -2139,12 +1691,8 @@
     "proveedor_casa_delfin": "1005159",
     "proveedor_pilsa": "150363",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 177,
@@ -2158,12 +1706,8 @@
     "proveedor_casa_delfin": "1003712",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 178,
@@ -2177,12 +1721,8 @@
     "proveedor_casa_delfin": "1700128",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 180,
@@ -2196,12 +1736,8 @@
     "proveedor_casa_delfin": "2002659",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P307040&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 181,
@@ -2215,12 +1751,8 @@
     "proveedor_casa_delfin": "4004099",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P306035&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 182,
@@ -2234,12 +1766,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 183,
@@ -2253,12 +1781,8 @@
     "proveedor_casa_delfin": "4000130",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 184,
@@ -2272,12 +1796,8 @@
     "proveedor_casa_delfin": "1901194",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 185,
@@ -2291,12 +1811,8 @@
     "proveedor_casa_delfin": "0664383",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 186,
@@ -2310,12 +1826,8 @@
     "proveedor_casa_delfin": "1008648",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P80280&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 187,
@@ -2329,12 +1841,8 @@
     "proveedor_casa_delfin": "1005725",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P80320&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 196,
@@ -2348,12 +1856,8 @@
     "proveedor_casa_delfin": "0180000",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P80790&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 198,
@@ -2367,12 +1871,8 @@
     "proveedor_casa_delfin": "0201431",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P80430&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 199,
@@ -2386,12 +1886,8 @@
     "proveedor_casa_delfin": "0301139",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P80440&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 200,
@@ -2405,12 +1901,8 @@
     "proveedor_casa_delfin": "4004080",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P200016&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 201,
@@ -2424,12 +1916,8 @@
     "proveedor_casa_delfin": "4004081",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P200018&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 202,
@@ -2443,12 +1931,8 @@
     "proveedor_casa_delfin": "4004014",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P202020&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 203,
@@ -2462,12 +1946,8 @@
     "proveedor_casa_delfin": "4004015",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P202028&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 204,
@@ -2481,12 +1961,8 @@
     "proveedor_casa_delfin": "4004101",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P350530&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 209,
@@ -2500,12 +1976,8 @@
     "proveedor_casa_delfin": "0903297",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P5015&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 212,
@@ -2519,12 +1991,8 @@
     "proveedor_casa_delfin": "1006286",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P5017&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 215,
@@ -2538,12 +2006,8 @@
     "proveedor_casa_delfin": "4006131",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=TR12H&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 218,
@@ -2557,12 +2021,8 @@
     "proveedor_casa_delfin": "1008072",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P5250&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 221,
@@ -2576,12 +2036,8 @@
     "proveedor_casa_delfin": "4003794",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P5360&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 224,
@@ -2595,12 +2051,8 @@
     "proveedor_casa_delfin": "2006195",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P5361F1&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 227,
@@ -2614,12 +2066,8 @@
     "proveedor_casa_delfin": "1004958",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P5000&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 230,
@@ -2633,12 +2081,8 @@
     "proveedor_casa_delfin": "4005249",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P5160&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 233,
@@ -2652,12 +2096,8 @@
     "proveedor_casa_delfin": "1004957",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P5003&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 235,
@@ -2671,12 +2111,8 @@
     "proveedor_casa_delfin": "4001408",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P5002&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 237,
@@ -2690,12 +2126,8 @@
     "proveedor_casa_delfin": "1600643",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 238,
@@ -2709,12 +2141,8 @@
     "proveedor_casa_delfin": "1700880",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 239,
@@ -2728,12 +2156,8 @@
     "proveedor_casa_delfin": "2004138",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 240,
@@ -2747,12 +2171,8 @@
     "proveedor_casa_delfin": "1600985",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 241,
@@ -2766,12 +2186,8 @@
     "proveedor_casa_delfin": "4004066",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 242,
@@ -2785,12 +2201,8 @@
     "proveedor_casa_delfin": "4003747",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 243,
@@ -2804,12 +2216,8 @@
     "proveedor_casa_delfin": "1901989",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 244,
@@ -2823,12 +2231,8 @@
     "proveedor_casa_delfin": "1500212",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 247,
@@ -2842,12 +2246,8 @@
     "proveedor_casa_delfin": "9020681",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=69098"
->>>>>>> dc9f1f9
   },
   {
     "id": 248,
@@ -2861,12 +2261,8 @@
     "proveedor_casa_delfin": "0501946",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=69131"
->>>>>>> dc9f1f9
   },
   {
     "id": 249,
@@ -2880,12 +2276,8 @@
     "proveedor_casa_delfin": "0325080",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=R69100A"
->>>>>>> dc9f1f9
   },
   {
     "id": 250,
@@ -2899,12 +2291,8 @@
     "proveedor_casa_delfin": "0301052",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=R69100B"
->>>>>>> dc9f1f9
   },
   {
     "id": 251,
@@ -2918,12 +2306,8 @@
     "proveedor_casa_delfin": "GENERIC",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=R69099C"
->>>>>>> dc9f1f9
   },
   {
     "id": 252,
@@ -2937,12 +2321,8 @@
     "proveedor_casa_delfin": "1006993",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 255,
@@ -2956,12 +2336,8 @@
     "proveedor_casa_delfin": "4004089",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P347020&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 256,
@@ -2975,12 +2351,8 @@
     "proveedor_casa_delfin": "4004090",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P303024&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 257,
@@ -2994,12 +2366,8 @@
     "proveedor_casa_delfin": "4004120",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P303026&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 260,
@@ -3013,12 +2381,8 @@
     "proveedor_casa_delfin": "1009028",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P325012&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 262,
@@ -3032,12 +2396,8 @@
     "proveedor_casa_delfin": "0605123",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 293,
@@ -3051,12 +2411,8 @@
     "proveedor_casa_delfin": "4005053",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 294,
@@ -3070,12 +2426,8 @@
     "proveedor_casa_delfin": "4004109",
     "proveedor_pilsa": "302128",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 295,
@@ -3089,12 +2441,8 @@
     "proveedor_casa_delfin": "0524367",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P380000&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 296,
@@ -3108,12 +2456,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 298,
@@ -3127,12 +2471,8 @@
     "proveedor_casa_delfin": "1005447",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 299,
@@ -3146,12 +2486,8 @@
     "proveedor_casa_delfin": "232467",
     "proveedor_pilsa": "232467",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 300,
@@ -3165,12 +2501,8 @@
     "proveedor_casa_delfin": "0618014",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 301,
@@ -3184,12 +2516,8 @@
     "proveedor_casa_delfin": "2004383",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P112001&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 302,
@@ -3203,12 +2531,8 @@
     "proveedor_casa_delfin": "2004382",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P110651&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 303,
@@ -3222,12 +2546,8 @@
     "proveedor_casa_delfin": "2004386",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P120651&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 304,
@@ -3241,12 +2561,8 @@
     "proveedor_casa_delfin": "4004093",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P141001&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 305,
@@ -3260,12 +2576,8 @@
     "proveedor_casa_delfin": "4004094",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P141501&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 306,
@@ -3279,12 +2591,8 @@
     "proveedor_casa_delfin": "2004389",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P161001&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 307,
@@ -3298,12 +2606,8 @@
     "proveedor_casa_delfin": "1009044",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P211001&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 308,
@@ -3317,12 +2621,8 @@
     "proveedor_casa_delfin": "1009041",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P210201&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 309,
@@ -3336,12 +2636,8 @@
     "proveedor_casa_delfin": "4004115",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P212001&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 310,
@@ -3355,12 +2651,8 @@
     "proveedor_casa_delfin": "1009042",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P210651&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 311,
@@ -3374,12 +2666,8 @@
     "proveedor_casa_delfin": "0664189",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 312,
@@ -3393,12 +2681,8 @@
     "proveedor_casa_delfin": "4001322",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P161002&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 313,
@@ -3412,12 +2696,8 @@
     "proveedor_casa_delfin": "2005745",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P111001&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 314,
@@ -3431,12 +2711,8 @@
     "proveedor_casa_delfin": "4004102",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P110201&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 317,
@@ -3450,12 +2726,8 @@
     "proveedor_casa_delfin": "4004103",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P191001&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 318,
@@ -3469,12 +2741,8 @@
     "proveedor_casa_delfin": "1009046",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P211002&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 319,
@@ -3488,12 +2756,8 @@
     "proveedor_casa_delfin": "4003028",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P111002&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 320,
@@ -3507,12 +2771,8 @@
     "proveedor_casa_delfin": "1009824",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 321,
@@ -3526,12 +2786,8 @@
     "proveedor_casa_delfin": "1006687",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P590120&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 322,
@@ -3545,12 +2801,8 @@
     "proveedor_casa_delfin": "1006809",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P590130&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 323,
@@ -3564,12 +2816,8 @@
     "proveedor_casa_delfin": "4000090",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P590240&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 326,
@@ -3583,12 +2831,8 @@
     "proveedor_casa_delfin": "4004097",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P603015&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 327,
@@ -3602,12 +2846,8 @@
     "proveedor_casa_delfin": "1600988",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 340,
@@ -3621,12 +2861,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=46952&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 344,
@@ -3640,12 +2876,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 346,
@@ -3659,12 +2891,8 @@
     "proveedor_casa_delfin": "0504171",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 349,
@@ -3678,12 +2906,8 @@
     "proveedor_casa_delfin": "1700934",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 350,
@@ -3697,12 +2921,8 @@
     "proveedor_casa_delfin": "4004116",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 351,
@@ -3716,12 +2936,8 @@
     "proveedor_casa_delfin": "900557",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 352,
@@ -3735,12 +2951,8 @@
     "proveedor_casa_delfin": "900400",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 353,
@@ -3754,12 +2966,8 @@
     "proveedor_casa_delfin": "4004110",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 354,
@@ -3773,12 +2981,8 @@
     "proveedor_casa_delfin": "5551391",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 355,
@@ -3792,12 +2996,8 @@
     "proveedor_casa_delfin": "1700935",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 356,
@@ -3811,12 +3011,8 @@
     "proveedor_casa_delfin": "1700123",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 357,
@@ -3830,12 +3026,8 @@
     "proveedor_casa_delfin": "0900424",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 358,
@@ -3849,12 +3041,8 @@
     "proveedor_casa_delfin": "5551390",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 360,
@@ -3868,12 +3056,8 @@
     "proveedor_casa_delfin": "1700148",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 361,
@@ -3887,12 +3071,8 @@
     "proveedor_casa_delfin": "GENERIC",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 362,
@@ -3906,12 +3086,8 @@
     "proveedor_casa_delfin": "4001473",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 363,
@@ -3925,12 +3101,8 @@
     "proveedor_casa_delfin": "4002228",
     "proveedor_pilsa": "272196",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 364,
@@ -3944,12 +3116,8 @@
     "proveedor_casa_delfin": "4004065",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 366,
@@ -3963,12 +3131,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 370,
@@ -3982,12 +3146,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 374,
@@ -4001,12 +3161,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 377,
@@ -4020,12 +3176,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 378,
@@ -4039,12 +3191,8 @@
     "proveedor_casa_delfin": "4004129",
     "proveedor_pilsa": "307182",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 379,
@@ -4058,12 +3206,8 @@
     "proveedor_casa_delfin": "4004092",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P308040&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 380,
@@ -4077,12 +3221,8 @@
     "proveedor_casa_delfin": "4004091",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P308045&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 381,
@@ -4096,12 +3236,8 @@
     "proveedor_casa_delfin": "4004112",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 382,
@@ -4115,12 +3251,8 @@
     "proveedor_casa_delfin": "4004111",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 383,
@@ -4134,12 +3266,8 @@
     "proveedor_casa_delfin": "4004086",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P315012&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 384,
@@ -4153,12 +3281,8 @@
     "proveedor_casa_delfin": "4004087",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P315017&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 385,
@@ -4172,12 +3296,8 @@
     "proveedor_casa_delfin": "4004088",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P955012&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 386,
@@ -4191,12 +3311,8 @@
     "proveedor_casa_delfin": "4004085",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P302112&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 387,
@@ -4210,12 +3326,8 @@
     "proveedor_casa_delfin": "4003016",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P302116&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 391,
@@ -4229,12 +3341,8 @@
     "proveedor_casa_delfin": "0100011",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 392,
@@ -4248,12 +3356,8 @@
     "proveedor_casa_delfin": "1003854",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 397,
@@ -4267,12 +3371,8 @@
     "proveedor_casa_delfin": "0664020",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 398,
@@ -4286,12 +3386,8 @@
     "proveedor_casa_delfin": "4003957",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 399,
@@ -4305,12 +3401,8 @@
     "proveedor_casa_delfin": "4003951",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=49412&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 400,
@@ -4324,12 +3416,8 @@
     "proveedor_casa_delfin": "5004274",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 401,
@@ -4343,12 +3431,8 @@
     "proveedor_casa_delfin": "900991",
     "proveedor_pilsa": "163526",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 402,
@@ -4362,12 +3446,8 @@
     "proveedor_casa_delfin": "0410054",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 403,
@@ -4381,12 +3461,8 @@
     "proveedor_casa_delfin": "0101533",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 404,
@@ -4400,12 +3476,8 @@
     "proveedor_casa_delfin": "0410055",
     "proveedor_pilsa": "149619",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 405,
@@ -4419,12 +3491,8 @@
     "proveedor_casa_delfin": "2200350",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 406,
@@ -4438,12 +3506,8 @@
     "proveedor_casa_delfin": "0140501",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 407,
@@ -4457,12 +3521,8 @@
     "proveedor_casa_delfin": "2200144",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 408,
@@ -4476,12 +3536,8 @@
     "proveedor_casa_delfin": "0900708",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 409,
@@ -4495,12 +3551,8 @@
     "proveedor_casa_delfin": "1003617",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 410,
@@ -4514,12 +3566,8 @@
     "proveedor_casa_delfin": "0138480",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 414,
@@ -4533,12 +3581,8 @@
     "proveedor_casa_delfin": "4004106",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 415,
@@ -4552,12 +3596,8 @@
     "proveedor_casa_delfin": "0103781",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=60011"
->>>>>>> dc9f1f9
   },
   {
     "id": 416,
@@ -4571,12 +3611,8 @@
     "proveedor_casa_delfin": "1000796",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 417,
@@ -4590,12 +3626,8 @@
     "proveedor_casa_delfin": "0904175",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 418,
@@ -4609,12 +3641,8 @@
     "proveedor_casa_delfin": "0904174",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 420,
@@ -4628,12 +3656,8 @@
     "proveedor_casa_delfin": "9028055",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 422,
@@ -4647,12 +3671,8 @@
     "proveedor_casa_delfin": "4004114",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 427,
@@ -4666,12 +3686,8 @@
     "proveedor_casa_delfin": "0201617",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 438,
@@ -4685,12 +3701,8 @@
     "proveedor_casa_delfin": "0664025",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 439,
@@ -4704,12 +3716,8 @@
     "proveedor_casa_delfin": "4003798",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P975600&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 443,
@@ -4723,12 +3731,8 @@
     "proveedor_casa_delfin": "2200220",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=69323"
->>>>>>> dc9f1f9
   },
   {
     "id": 444,
@@ -4742,12 +3746,8 @@
     "proveedor_casa_delfin": "1006065",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=69322"
->>>>>>> dc9f1f9
   },
   {
     "id": 447,
@@ -4761,12 +3761,8 @@
     "proveedor_casa_delfin": "4005122",
     "proveedor_pilsa": "76526",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 448,
@@ -4780,12 +3776,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 450,
@@ -4799,12 +3791,8 @@
     "proveedor_casa_delfin": "4004107",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 451,
@@ -4818,12 +3806,8 @@
     "proveedor_casa_delfin": "1004083",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 452,
@@ -4837,12 +3821,8 @@
     "proveedor_casa_delfin": "1004084",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 453,
@@ -4856,12 +3836,8 @@
     "proveedor_casa_delfin": "1004149",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 454,
@@ -4875,12 +3851,8 @@
     "proveedor_casa_delfin": "0563985",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=69038"
->>>>>>> dc9f1f9
   },
   {
     "id": 455,
@@ -4894,12 +3866,8 @@
     "proveedor_casa_delfin": "4004077",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P218040&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 456,
@@ -4913,12 +3881,8 @@
     "proveedor_casa_delfin": "4004078",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P218050&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 457,
@@ -4932,12 +3896,8 @@
     "proveedor_casa_delfin": "4003953",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=49424&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 458,
@@ -4951,12 +3911,8 @@
     "proveedor_casa_delfin": "0906507",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 459,
@@ -4970,12 +3926,8 @@
     "proveedor_casa_delfin": "4003973",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P205028&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 460,
@@ -4989,12 +3941,8 @@
     "proveedor_casa_delfin": "0905031",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=60130"
->>>>>>> dc9f1f9
   },
   {
     "id": 461,
@@ -5008,12 +3956,8 @@
     "proveedor_casa_delfin": "2002770",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=50632W"
->>>>>>> dc9f1f9
   },
   {
     "id": 462,
@@ -5027,12 +3971,8 @@
     "proveedor_casa_delfin": "1007312",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P398140&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 463,
@@ -5046,12 +3986,8 @@
     "proveedor_casa_delfin": "1003029",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 464,
@@ -5065,12 +4001,8 @@
     "proveedor_casa_delfin": "0400688",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 466,
@@ -5084,12 +4016,8 @@
     "proveedor_casa_delfin": "4001265",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P948090&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 467,
@@ -5103,12 +4031,8 @@
     "proveedor_casa_delfin": "0400394",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 468,
@@ -5122,12 +4046,8 @@
     "proveedor_casa_delfin": "0500789",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=61460"
->>>>>>> dc9f1f9
   },
   {
     "id": 469,
@@ -5141,12 +4061,8 @@
     "proveedor_casa_delfin": "4004073",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=46936&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 476,
@@ -5160,12 +4076,8 @@
     "proveedor_casa_delfin": "0696092",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P909.121&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 477,
@@ -5179,12 +4091,8 @@
     "proveedor_casa_delfin": "1600232",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 478,
@@ -5198,12 +4106,8 @@
     "proveedor_casa_delfin": "1600531",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 479,
@@ -5217,12 +4121,8 @@
     "proveedor_casa_delfin": "4004108",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 480,
@@ -5236,12 +4136,8 @@
     "proveedor_casa_delfin": "0106161",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 484,
@@ -5255,12 +4151,8 @@
     "proveedor_casa_delfin": "9021870",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 485,
@@ -5274,12 +4166,8 @@
     "proveedor_casa_delfin": "4004075",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=46928&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 487,
@@ -5293,12 +4181,8 @@
     "proveedor_casa_delfin": "4004076",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=46926&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 488,
@@ -5312,12 +4196,8 @@
     "proveedor_casa_delfin": "0201252",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 489,
@@ -5331,12 +4211,8 @@
     "proveedor_casa_delfin": "0901960",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P352000&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 499,
@@ -5350,12 +4226,8 @@
     "proveedor_casa_delfin": "4004071",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P22162&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 500,
@@ -5369,12 +4241,8 @@
     "proveedor_casa_delfin": "1006390",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P22697&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 501,
@@ -5388,12 +4256,8 @@
     "proveedor_casa_delfin": "0561225",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 505,
@@ -5407,12 +4271,8 @@
     "proveedor_casa_delfin": "2004316",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P22346&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 511,
@@ -5426,12 +4286,8 @@
     "proveedor_casa_delfin": "1003258",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 513,
@@ -5445,12 +4301,8 @@
     "proveedor_casa_delfin": "2004313",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P22317&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 514,
@@ -5464,12 +4316,8 @@
     "proveedor_casa_delfin": "2004310",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P22321&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 515,
@@ -5483,12 +4331,8 @@
     "proveedor_casa_delfin": "2004319",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P22336&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 523,
@@ -5502,12 +4346,8 @@
     "proveedor_casa_delfin": "2004311",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P22320&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 524,
@@ -5521,12 +4361,8 @@
     "proveedor_casa_delfin": "1500134",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 525,
@@ -5540,12 +4376,8 @@
     "proveedor_casa_delfin": "1500138",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 527,
@@ -5559,12 +4391,8 @@
     "proveedor_casa_delfin": "4002471",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 528,
@@ -5578,12 +4406,8 @@
     "proveedor_casa_delfin": "0400162",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 529,
@@ -5597,12 +4421,8 @@
     "proveedor_casa_delfin": "0400163",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 531,
@@ -5616,12 +4436,8 @@
     "proveedor_casa_delfin": "2004312",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P22332&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 533,
@@ -5635,12 +4451,8 @@
     "proveedor_casa_delfin": "4004067",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 534,
@@ -5654,12 +4466,8 @@
     "proveedor_casa_delfin": "4004068",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 536,
@@ -5673,12 +4481,8 @@
     "proveedor_casa_delfin": "0952632",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 537,
@@ -5692,12 +4496,8 @@
     "proveedor_casa_delfin": "2200901",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 538,
@@ -5711,12 +4511,8 @@
     "proveedor_casa_delfin": "0602225",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 544,
@@ -5730,12 +4526,8 @@
     "proveedor_casa_delfin": "4004098",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=47278&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 545,
@@ -5749,12 +4541,8 @@
     "proveedor_casa_delfin": "4003022",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P328023&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 548,
@@ -5768,12 +4556,8 @@
     "proveedor_casa_delfin": "0664050",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 549,
@@ -5787,12 +4571,8 @@
     "proveedor_casa_delfin": "0664044",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 550,
@@ -5806,12 +4586,8 @@
     "proveedor_casa_delfin": "0664051",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 551,
@@ -5825,12 +4601,8 @@
     "proveedor_casa_delfin": "0664056",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 552,
@@ -5844,12 +4616,8 @@
     "proveedor_casa_delfin": "4004104",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P909.111&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 553,
@@ -5863,12 +4631,8 @@
     "proveedor_casa_delfin": "2005561",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=49435W&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 554,
@@ -5882,12 +4646,8 @@
     "proveedor_casa_delfin": "4004082",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P220020&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 555,
@@ -5901,12 +4661,8 @@
     "proveedor_casa_delfin": "4001429",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P220022&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 556,
@@ -5920,12 +4676,8 @@
     "proveedor_casa_delfin": "1009875",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P220028&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 557,
@@ -5939,12 +4691,8 @@
     "proveedor_casa_delfin": "0653621",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=68988"
->>>>>>> dc9f1f9
   },
   {
     "id": 558,
@@ -5958,12 +4706,8 @@
     "proveedor_casa_delfin": "4003106",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 559,
@@ -5977,12 +4721,8 @@
     "proveedor_casa_delfin": "4004064",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 561,
@@ -5996,12 +4736,8 @@
     "proveedor_casa_delfin": "1004439",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 563,
@@ -6015,12 +4751,8 @@
     "proveedor_casa_delfin": "0908979",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 570,
@@ -6034,12 +4766,8 @@
     "proveedor_casa_delfin": "4004096",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P911306&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 571,
@@ -6053,12 +4781,8 @@
     "proveedor_casa_delfin": "0901344",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 572,
@@ -6072,12 +4796,8 @@
     "proveedor_casa_delfin": "1003035",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 573,
@@ -6091,12 +4811,8 @@
     "proveedor_casa_delfin": "1003013",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 574,
@@ -6110,12 +4826,8 @@
     "proveedor_casa_delfin": "1003036",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 575,
@@ -6129,12 +4841,8 @@
     "proveedor_casa_delfin": "1003034",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 576,
@@ -6148,12 +4856,8 @@
     "proveedor_casa_delfin": "1003014",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 577,
@@ -6167,12 +4871,8 @@
     "proveedor_casa_delfin": "2002647",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 578,
@@ -6186,12 +4886,8 @@
     "proveedor_casa_delfin": "4003880",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P22424&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 579,
@@ -6205,12 +4901,8 @@
     "proveedor_casa_delfin": "4004070",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P22425&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 580,
@@ -6224,12 +4916,8 @@
     "proveedor_casa_delfin": "4006144",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P590011&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 581,
@@ -6243,12 +4931,8 @@
     "proveedor_casa_delfin": "4006145",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P590012&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 582,
@@ -6262,12 +4946,8 @@
     "proveedor_casa_delfin": "0664174",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 591,
@@ -6281,12 +4961,8 @@
     "proveedor_casa_delfin": "0901594",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=62459"
->>>>>>> dc9f1f9
   },
   {
     "id": 595,
@@ -6300,12 +4976,8 @@
     "proveedor_casa_delfin": "1004523",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=69066"
->>>>>>> dc9f1f9
   },
   {
     "id": 596,
@@ -6319,12 +4991,8 @@
     "proveedor_casa_delfin": "1007806",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P303200&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 597,
@@ -6338,12 +5006,8 @@
     "proveedor_casa_delfin": "0262486",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 598,
@@ -6357,12 +5021,8 @@
     "proveedor_casa_delfin": "0233260",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 602,
@@ -6376,12 +5036,8 @@
     "proveedor_casa_delfin": "1503186",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 617,
@@ -6395,12 +5051,8 @@
     "proveedor_casa_delfin": "1005335",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P239236&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 618,
@@ -6414,12 +5066,8 @@
     "proveedor_casa_delfin": "1005171",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P239436&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 619,
@@ -6433,12 +5081,8 @@
     "proveedor_casa_delfin": "1005838",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 620,
@@ -6452,12 +5096,8 @@
     "proveedor_casa_delfin": "1005840",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 621,
@@ -6471,12 +5111,8 @@
     "proveedor_casa_delfin": "0206158",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 622,
@@ -6490,12 +5126,8 @@
     "proveedor_casa_delfin": "1009007",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=778060&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 623,
@@ -6509,12 +5141,8 @@
     "proveedor_casa_delfin": "1000630",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 624,
@@ -6528,12 +5156,8 @@
     "proveedor_casa_delfin": "1003943",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 625,
@@ -6547,12 +5171,8 @@
     "proveedor_casa_delfin": "2006297",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P732000&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 627,
@@ -6566,12 +5186,8 @@
     "proveedor_casa_delfin": "1007079",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 630,
@@ -6585,12 +5201,8 @@
     "proveedor_casa_delfin": "4003946",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=66734"
->>>>>>> dc9f1f9
   },
   {
     "id": 633,
@@ -6604,12 +5216,8 @@
     "proveedor_casa_delfin": "5005560",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 634,
@@ -6623,12 +5231,8 @@
     "proveedor_casa_delfin": "0165545",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 635,
@@ -6642,12 +5246,8 @@
     "proveedor_casa_delfin": "0801097",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=62457"
->>>>>>> dc9f1f9
   },
   {
     "id": 636,
@@ -6661,12 +5261,8 @@
     "proveedor_casa_delfin": "4006558",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P595010&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 637,
@@ -6680,12 +5276,8 @@
     "proveedor_casa_delfin": "4006559",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P595011&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 638,
@@ -6699,12 +5291,8 @@
     "proveedor_casa_delfin": "4006560",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P597210&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 639,
@@ -6718,12 +5306,8 @@
     "proveedor_casa_delfin": "4006561",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P597200&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 640,
@@ -6737,12 +5321,8 @@
     "proveedor_casa_delfin": "4006562",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P597180&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 641,
@@ -6756,12 +5336,8 @@
     "proveedor_casa_delfin": "4006563",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P595019&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 642,
@@ -6775,12 +5351,8 @@
     "proveedor_casa_delfin": "4006564",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P598003&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 643,
@@ -6794,12 +5366,8 @@
     "proveedor_casa_delfin": "4006565",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P595004&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 644,
@@ -6813,12 +5381,8 @@
     "proveedor_casa_delfin": "0906509",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 645,
@@ -6832,12 +5396,8 @@
     "proveedor_casa_delfin": "5551392",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 646,
@@ -6851,12 +5411,8 @@
     "proveedor_casa_delfin": "0664049",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 647,
@@ -6870,12 +5426,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "257502",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 656,
@@ -6889,12 +5441,8 @@
     "proveedor_casa_delfin": "5005578",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 663,
@@ -6908,12 +5456,8 @@
     "proveedor_casa_delfin": "0014402",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 664,
@@ -6927,12 +5471,8 @@
     "proveedor_casa_delfin": "GENERIC",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P202016&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 665,
@@ -6946,12 +5486,8 @@
     "proveedor_casa_delfin": "GENERIC",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P200012&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 666,
@@ -6965,12 +5501,8 @@
     "proveedor_casa_delfin": "0500594",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=23640"
->>>>>>> dc9f1f9
   },
   {
     "id": 667,
@@ -6984,12 +5516,8 @@
     "proveedor_casa_delfin": "0605742",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=23636"
->>>>>>> dc9f1f9
   },
   {
     "id": 668,
@@ -7003,12 +5531,8 @@
     "proveedor_casa_delfin": "0904301",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 669,
@@ -7022,12 +5546,8 @@
     "proveedor_casa_delfin": "0524160",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.lacor.es/buscador?q=61640"
->>>>>>> dc9f1f9
   },
   {
     "id": 670,
@@ -7041,12 +5561,8 @@
     "proveedor_casa_delfin": "4005268",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=47490&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 671,
@@ -7060,12 +5576,8 @@
     "proveedor_casa_delfin": "4004464",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 672,
@@ -7079,12 +5591,8 @@
     "proveedor_casa_delfin": "4004056",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 674,
@@ -7098,12 +5606,8 @@
     "proveedor_casa_delfin": "1006991",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 675,
@@ -7117,12 +5621,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 676,
@@ -7136,12 +5636,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P217060&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 677,
@@ -7155,12 +5651,8 @@
     "proveedor_casa_delfin": "0664278",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P5018&search=true"
->>>>>>> dc9f1f9
   },
   {
     "id": 678,
@@ -7174,12 +5666,8 @@
     "proveedor_casa_delfin": "0306344",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 679,
@@ -7193,12 +5681,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 680,
@@ -7212,12 +5696,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 681,
@@ -7231,12 +5711,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 682,
@@ -7250,12 +5726,8 @@
     "proveedor_casa_delfin": "4004285",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 683,
@@ -7269,12 +5741,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 684,
@@ -7288,12 +5756,8 @@
     "proveedor_casa_delfin": "901281",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 685,
@@ -7307,12 +5771,8 @@
     "proveedor_casa_delfin": "1902044",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 686,
@@ -7326,12 +5786,8 @@
     "proveedor_casa_delfin": "1900689",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 687,
@@ -7345,12 +5801,8 @@
     "proveedor_casa_delfin": "900760",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 688,
@@ -7364,12 +5816,8 @@
     "proveedor_casa_delfin": "900761",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 689,
@@ -7383,12 +5831,8 @@
     "proveedor_casa_delfin": "4006862",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 690,
@@ -7402,12 +5846,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 691,
@@ -7421,12 +5861,8 @@
     "proveedor_casa_delfin": "0952339",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 692,
@@ -7440,12 +5876,8 @@
     "proveedor_casa_delfin": "4002962",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 693,
@@ -7459,12 +5891,8 @@
     "proveedor_casa_delfin": "4002972",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 694,
@@ -7478,12 +5906,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 695,
@@ -7497,12 +5921,8 @@
     "proveedor_casa_delfin": "0306345",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 696,
@@ -7516,12 +5936,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 697,
@@ -7535,12 +5951,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 698,
@@ -7554,12 +5966,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 699,
@@ -7573,12 +5981,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 700,
@@ -7592,12 +5996,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 701,
@@ -7611,12 +6011,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 702,
@@ -7630,12 +6026,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 703,
@@ -7649,12 +6041,8 @@
     "proveedor_casa_delfin": "",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 704,
@@ -7668,12 +6056,8 @@
     "proveedor_casa_delfin": "PILSA:",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 705,
@@ -7687,12 +6071,8 @@
     "proveedor_casa_delfin": "1000308",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 706,
@@ -7706,12 +6086,8 @@
     "proveedor_casa_delfin": "2001971",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 707,
@@ -7725,12 +6101,8 @@
     "proveedor_casa_delfin": "GARCIA DE POU",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 708,
@@ -7744,12 +6116,8 @@
     "proveedor_casa_delfin": "GARCIA DE POU",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": ""
->>>>>>> dc9f1f9
   },
   {
     "id": 709,
@@ -7763,11 +6131,7 @@
     "proveedor_casa_delfin": "PILSA",
     "proveedor_pilsa": "",
     "cantidad": "",
-<<<<<<< HEAD
-    "archivoOrigen": "cocina.json"
-=======
     "archivoOrigen": "cocina.json",
     "url_ficha": "https://www.pujadas.es/es/search/products?q=P850222&search=true"
->>>>>>> dc9f1f9
   }
 ]
